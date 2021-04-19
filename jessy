@@ -1,0 +1,4 @@
+I started by runing npm init
+npm install express nodemon
+
+in the json file under script I replaced test with     "start": "nodemon app.js"
